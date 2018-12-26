@@ -1,7 +1,8 @@
 #test
 '''
-  authour:lpc
-  date: 20181220
+  authour:      lpc
+  created date: 20181220
+  updated date: 20181226
 '''
 import turtle
 t = turtle.Pen()

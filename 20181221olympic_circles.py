@@ -1,3 +1,9 @@
+'''
+  authour:      lpc
+  created date: 20181222
+  updated date: 20181226
+'''
+
 #olympic circles
 
 import turtle

@@ -1,3 +1,8 @@
+'''
+authour:      lpc
+created date: 20181221
+updated date: 20181226
+'''
 #draw four squres
 
 import turtle
